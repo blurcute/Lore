@@ -5,14 +5,15 @@ Hello, nice to meet you! I am Toast and I love to code in my spare time. I am al
 ## My Projects
 - 🤖 [**`Status Tracker`**](https://discord.gg/ZhxmKhDqmx) - The **#1** discord bot for tracking statuses with multiple other features.
 
+## What I like 💤
+ - `Python`
+ - `MongoDB`
+ - `Discord` 
+ 
 ## Need to Contact me? 
 > **Discord**: [**`Toast#2021`**](https://discord.gg/ZhxmKhDqmx)
 >
 > **Status Tracker Server**: [click here.](https://discord.gg/ZhxmKhDqmx)
 
-## What I like 💤
- - `Python`
- - `MongoDB`
- - `Discord` 
 ##
 Anyone else like blasting music whilst coding or is it just me?
