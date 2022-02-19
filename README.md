@@ -1,4 +1,4 @@
-# Hello! I'm Toast!
+# Hello! I'm lore!
 
 Hello, nice to meet you! I am Toast and I love to code in my spare time. I am also loving working on my main project which is [`Status Tracker`](https://discord.gg/ZhxmKhDqmx). I mainly work in python 🐍 but I know a little of js, typescript, and rust. I won't be using them ever again 😅 I am also a high school student that finishes school soon and I plan to go to college to do Business, Accounting, and Media.
 
