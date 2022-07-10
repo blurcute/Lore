@@ -7,7 +7,7 @@ Hello, nice to meet you! I am Toast and I love to code in my spare time. I am al
 
 #### What I like 💤
 > Anyone else like blasting music whilst coding or is it just me?
-```
+```json
 Python
 MongoDB
 Discord
