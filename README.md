@@ -1,13 +1,14 @@
-# Hello! I'm blur!
+# Me
 
-Hello, nice to meet you! I am Toast and I love to code in my spare time. I am also loving working on my main project which is [`Status Tracker`](https://discord.gg/ZhxmKhDqmx). I mainly work in python 🐍 but I know a little of js, typescript, and rust. I won't be using them ever again 😅 I am also a high school student that finishes school soon and I plan to go to college to do Business, Accounting, and Media.
+Hello, nice to meet you! I am Blur. I am a teenager from the United Kingdom that likes to work on projects as a hobby. I got first introduced to coding after discovering
+Discord bots. I made my first ever bot in 2019, 2 years after joining discord, and started to learn and experiment with `discord.js` & `discord.py`. Basically, [`YouTube`](https://youtube.com/) and [`Stackoverflow`](https://stackoverflow.com/) are life savers.
 
-#### My Projects
+#### Projects
 - 🤖 [**`Status Tracker`**](https://discord.gg/chats) - This bot tracked & logged status changing to role a reward.
 - 🎉 [**`Santa Wumpus`**](https://discordbotlist.com/bots/santa-lunar) - This bot was one of the biggest Giveaway bots of it's time.
 - 🎊 [**`Santa Lunar`**](https://discordbotlist.com/bots/santa-lunar) - Re-branded from **Santa Wumpus** to **Santa Lunar**.
 
-#### What I like
+#### Likes
 > Anyone else like blasting music whilst coding or is it just me?
 ```json
 --> Python
@@ -21,7 +22,7 @@ Hello, nice to meet you! I am Toast and I love to code in my spare time. I am al
 - [x] Learn discord oauth2
 - [ ] Legitmate Nitro Website
 ##
-#### Need to Contact me? 
+#### Contact Me
 ```py
 print("Discord": + "blur#0003")
 print("Website": + "https://blurdev.xyz")
