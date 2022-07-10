@@ -3,9 +3,11 @@
 Hello, nice to meet you! I am Toast and I love to code in my spare time. I am also loving working on my main project which is [`Status Tracker`](https://discord.gg/ZhxmKhDqmx). I mainly work in python 🐍 but I know a little of js, typescript, and rust. I won't be using them ever again 😅 I am also a high school student that finishes school soon and I plan to go to college to do Business, Accounting, and Media.
 
 #### My Projects
-- 🤖 [**`Status Tracker`**](https://discord.gg/ZhxmKhDqmx) - The **#1** discord bot for tracking statuses with multiple other features.
+- 🤖 [**`Status Tracker`**](https://discord.gg/chats) - This bot tracked & logged status changing to role a reward.
+- 🎉 [**`Santa Wumpus`**](https://discordbotlist.com/bots/santa-lunar) - This bot was one of the biggest Giveaway bots of it's time.
+- 🎊 [**`Santa Lunar`**](https://discordbotlist.com/bots/santa-lunar) - Re-branded from **Santa Wumpus** to **Santa Lunar**.
 
-#### What I like 💤
+#### What I like
 > Anyone else like blasting music whilst coding or is it just me?
 ```json
 --> Python
