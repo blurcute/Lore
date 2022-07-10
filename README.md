@@ -5,12 +5,19 @@ Hello, nice to meet you! I am Toast and I love to code in my spare time. I am al
 ## My Projects
 - 🤖 [**`Status Tracker`**](https://discord.gg/ZhxmKhDqmx) - The **#1** discord bot for tracking statuses with multiple other features.
 
-## What I like 💤
+#### What I like 💤
 ```
 Python
 MongoDB
 Discord
 ```
+#### Tasks
+
+- [x] Own Verified Discord bot
+- [x] Own a website
+- [x] Learn discord oauth2
+- [] Legitmate Nitro Website
+
 ## Need to Contact me? 
 > **Discord**: [**`blur#0003`**](https://discord.gg/chats)
 
