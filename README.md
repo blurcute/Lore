@@ -20,4 +20,8 @@ Discord
 - [ ] Legitmate Nitro Website
 ##
 #### Need to Contact me? 
+```py
+print("Discord": + "[blur#0003](https://discord.gg/chats)")
+print("Website": + "[https://blurdev.xyz](https://blurdev.xyz)")
+```
 > **Discord**: [**`blur#0003`**](https://discord.gg/chats)
