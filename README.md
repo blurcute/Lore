@@ -6,6 +6,7 @@ Hello, nice to meet you! I am Toast and I love to code in my spare time. I am al
 - 🤖 [**`Status Tracker`**](https://discord.gg/ZhxmKhDqmx) - The **#1** discord bot for tracking statuses with multiple other features.
 
 #### What I like 💤
+> Anyone else like blasting music whilst coding or is it just me?
 ```
 Python
 MongoDB
@@ -17,9 +18,6 @@ Discord
 - [x] Own a website
 - [x] Learn discord oauth2
 - [ ] Legitmate Nitro Website
-
+##
 #### Need to Contact me? 
 > **Discord**: [**`blur#0003`**](https://discord.gg/chats)
-
-##
-Anyone else like blasting music whilst coding or is it just me?
