@@ -1,4 +1,4 @@
-# Me
+#### Me
 
 Hello, nice to meet you! I am Blur. I am a teenager from the United Kingdom that likes to work on projects as a hobby. I got first introduced to coding after discovering
 Discord bots. I made my first ever bot in 2019, 2 years after joining discord, and started to learn and experiment with `discord.js` & `discord.py`. Basically, [`YouTube`](https://youtube.com/) and [`Stackoverflow`](https://stackoverflow.com/) are life savers.
